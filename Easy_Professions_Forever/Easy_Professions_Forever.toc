@@ -1,0 +1,65 @@
+## Interface: 11508, 11509, 11601, 16001
+## Title: Easy Professions (Forever)
+## Notes: Profession leveling guides from wow-professions.com/forever: a small tracker for your current step and a big window with every guide
+## Title-frFR: Easy Professions (Forever)
+## Notes-frFR: Guides de montée des métiers de wow-professions.com/forever : une petite fenêtre de suivi de l'étape en cours et une grande fenêtre avec tous les guides
+## Author: Daeler
+## Version: 1.0.0
+## Category: Daeler Addons
+## X-Category: Professions
+## IconTexture: Interface\AddOns\Easy_Professions_Forever\adds\icon
+## SavedVariablesPerCharacter: EasyProfessionsForeverDB
+## OptionalDeps: TomTom
+
+# Localization
+Locales\Locales.lua
+Locales\frFR.lua
+Locales\deDE.lua
+Locales\esES.lua
+Locales\itIT.lua
+Locales\ptBR.lua
+Locales\ruRU.lua
+Locales\koKR.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+
+# Core
+Core\Core.lua
+Core\Skin.lua
+Core\SkinBlizzard.lua
+Core\Text.lua
+
+# Guides (generated from wow-professions.com/forever)
+Data\Guides\01_alchemy.lua
+Data\Guides\02_blacksmithing.lua
+Data\Guides\03_enchanting.lua
+Data\Guides\04_engineering.lua
+Data\Guides\05_leatherworking.lua
+Data\Guides\06_tailoring.lua
+Data\Guides\07_mining.lua
+Data\Guides\08_herbalism.lua
+Data\Guides\09_skinning.lua
+Data\Guides\10_fishingcooking.lua
+Data\Guides\11_cooking.lua
+Data\Guides\12_firstaid.lua
+Data\Guides\13_fishing.lua
+Data\Guides\14_lockpicking.lua
+Data\Guides\15_camping.lua
+Data\Guides\16_merchant.lua
+
+# Guide translations
+Data\Tr\frFR.lua
+Data\Tr\deDE.lua
+Data\Tr\esES.lua
+Data\Tr\itIT.lua
+Data\Tr\ptBR.lua
+Data\Tr\ruRU.lua
+Data\Tr\koKR.lua
+Data\Tr\zhCN.lua
+Data\Tr\zhTW.lua
+
+# Interface
+UI\Extras.lua
+UI\Tracker.lua
+UI\Browser.lua
+UI\Minimap.lua
